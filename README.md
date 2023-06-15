@@ -1,14 +1,12 @@
-# Expo Router Example
+# JobSeeker
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+Mobile App that let's you find the perfect job for you
+
+## TechStack used React-Native, JS, CSS, HTML
 
 ## 🚀 How to use
 
 ```sh
-npx create-expo-app -e with-router
+npm install
+npm start
 ```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
