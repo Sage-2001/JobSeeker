@@ -10,3 +10,5 @@ Mobile App that let's you find the perfect job for you
 npm install
 npm start
 ```
+
+Reference:- https://www.youtube.com/watch?v=mJ3bGvy0WAY&list=WL&index=1
